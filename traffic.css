@@ -1,0 +1,45 @@
+.traffic{
+ background-color:black;
+ height:750px;
+ width:300px;
+ margin-left:330px;
+ margin-top:100px;
+ border-radius:5%;
+}
+#red{
+height:200px;
+width:200px;
+background-color:red;
+margin-left: 45px;
+border-radius:50%;
+
+}
+#yellow{
+  height:200px;
+  width:200px;
+  background-color:yellow;
+  margin-left: 45px;
+  border-radius:50%;
+
+}
+#green{height:200px;
+width:200px;
+background-color:lime;
+margin-left: 45px;
+border-radius:50%;
+}
+
+#stand{
+background-color:grey;
+height:520px;
+width:100px;
+margin-left:435px;
+margin-top:0px;
+}
+h1{
+ text-align:center;
+ 
+ 
+ text-decoration:wavy underline;
+ text-decoration-color:blue;
+}
